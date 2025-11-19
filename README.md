@@ -1,6 +1,6 @@
 # Prerequisites
 
-#**changed vs from 17 to 21**
+# Changed vs from 17 to 21
 
 - JDK 21
 - Maven 3.9
